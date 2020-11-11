@@ -48,5 +48,5 @@ ket : ✅ : aktif
 
 
 
-## DONASI
+## DONATE :)
 * Gopay : 085156760338 cen
