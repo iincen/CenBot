@@ -441,8 +441,7 @@ const get = require('got')
             conn.sendMessage(
                id,
                `
-      Quotes untuk 
-*${id.split("@s.whatsapp.net")[0]}*
+      Quotes Untuk kamuu
      _${kata}_
         
     
